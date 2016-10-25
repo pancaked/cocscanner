@@ -43,6 +43,7 @@ def export(clan, stream):
         ('Sharing is caring', 'Total Spells Donated'),
         ('donations', 'Donations'),
         ('donationsReceived', 'Donations Received')
+        ('friend in need', 'Friend in Need')
     ))
 
     column_keys = columns.keys()
