@@ -42,8 +42,7 @@ def export(clan, stream):
         ('Heroic Heist', 'Total DE Grab'),
         ('Sharing is caring', 'Total Spells Donated'),
         ('donations', 'Donations'),
-        ('donationsReceived', 'Donations Received'),
-        ('friend in need', 'Friend in Need')
+        ('donationsReceived', 'Donations Received')
     ))
 
     column_keys = columns.keys()
